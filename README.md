@@ -1,4 +1,4 @@
-# 🚀 Sistema Espacial - SA-MP Gamemode
+# 🚀 Sistema de Astronauta - SA-MP Gamemode
 
 ## 📋 Descrição
 
